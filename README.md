@@ -30,7 +30,7 @@ Estas instrucciones servirán para obtener una copia del proyecto y poder utiliz
 
 Descarga el repositorio como cualquier otro repositorio de git.
 ```
-git clone   
+git clone https://github.com/maizabros/connect4.git
 ```
 
 Utiliza el archivo Makefile facilitado en el repositorio para compilar el código de los programas.
