@@ -86,19 +86,6 @@ Así pues, aquí quedan todos los comandos para jugar en modo de ejemplo:
 ```
 Como se explica anteriormente es necesario que los clientes estén en dispositivos diferentes o bien ejecutandose en carpetas diferentes.
 
-## Comentarios del proyecto
-
-La verdad es que ha sido bastante tedioso de programar. Consideramos que el lenguaje utilizado no es el más adecuado para este tipo de proyectos ya que da auténticos quebraderos de cabeza. Sobre todo la comunicación de los sockets a tan bajo nivel. Ha sido divertido e interesante ver como funcionan realmente los programas en red. Aún así creemos que un lenguaje como Java habría sido mejor opción que C.
-
-### Dificultades de cada objetivo
-
-* El objetivo 1 es el que dio mas problemas. No había manera de que se conectaran dos clientes a la vez. Al final decidimos hacer uso de threads y una tabla de clientes para almacenar el descriptor de fichero de cada cliente. 
-* El objetivo 2 también nos dio problemas, pero no de redes. El mayor "problema" fue la implementación de la IA. No creemos que sea correcto que se evalúe parte del proyecto con una IA si la asignatura es de redes.
-* El objetivo 3 no fué demasiado difícil. Nos costó muy poco crear una función que imprimiese por pantalla el tablero.
-
-#### Resumen
-En resumen, recomendaríamos que en los siguientes años el proyecto se centre más en la implementación de código orientado a redes en vez de evaluar conecptos que no tienen que ver con esta asignatura. Como implementar una IA, crear una interfaz de juego, etc.
-
 ## Construido con 🛠️
 
 * [C](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n)) - Lenguaje de programación C. 
