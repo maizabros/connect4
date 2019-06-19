@@ -8,17 +8,17 @@
     \|_______|\|_______|\|__| \|__|\|_______|\|_______|   \|__|  \|__|\|__|              \|__|
 ```
 #
-Este proyecto final de Redes de computadores, trata de implementar un servidor y un cliente para jugar al juego Conecta 4. 
+Este proyecto final de Redes de computadores trata de implementar un servidor y un cliente para jugar al juego Conecta 4. 
 
 En este proyecto existen tres partes: objetivo1, objetivo2 y objetivo3.
 
-El objetivo1 se trata de un servidor que espera la conexión de dos clientes para jugar una partida de Conecta 4.
+El objetivo1 trata de un servidor que espera la conexión de dos clientes para jugar una partida de Conecta 4.
 El objetivo2 es igual al objetivo1 excepto por dos cosas: la primera es que el servidor solo admite una conexión; la segunda es que el servidor jugara como contricante del cliente con un "bot", una inteligencia artificial.
 El objetivo 3 es igual al objetivo1 pero esta vez se muestra el tablero de juego a los dos jugadores y en el servidor. También se da a elegir al segundo jugador si quiere jugar o si quiere que un bot lo haga por el.
 
 En todos los juegos se elige al azar el primer cliente que empezará la partida.
 
-Si quieres saber más sobre el juego Conecta 4 vaya al siguiente [enlace](https://es.wikipedia.org/wiki/Conecta_4).
+Si quieres saber más sobre el juego Conecta 4 ve al siguiente [enlace](https://es.wikipedia.org/wiki/Conecta_4).
 
 
 ## Instrucciones
@@ -30,7 +30,7 @@ Estas instrucciones servirán para obtener una copia del proyecto y poder utiliz
 
 Descarga el repositorio como cualquier otro repositorio de git.
 ```
-git clone https://bitbucket.org/rcpracticas2/rc1819_2a_82/  
+git clone   
 ```
 
 Utiliza el archivo Makefile facilitado en el repositorio para compilar el código de los programas.
