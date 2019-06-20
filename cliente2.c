@@ -222,6 +222,7 @@ void juego() {
                 make_move(0, colContr, board);
             do {
                 show_board(board);
+                printf("Adversario coloca ficha en columna %d\n", colContr);
                 printf("Introduce la columna en la que quieres colocar tu pieza: ");
                 scanf("%d", & columSel);
                 columSel--;
