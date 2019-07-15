@@ -95,3 +95,7 @@ Como se explica anteriormente es necesario que los clientes estén en dispositiv
 * **Adrian Maiza** - [Maizabros](https://github.com/maizabros)
 * **Jon Urtasun** 
 
+
+## Postdata
+
+En si el programa funciona pero el código da asco. Por lo que lo dejo como WIP hasta que corrija errores y mejore el código estéticamente.
